@@ -1,2 +1,1 @@
-# SpringBoot
-SpringBoot를 익혀보자
+# SpringBoot study 레파지토리입니다.
